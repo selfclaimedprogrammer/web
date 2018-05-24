@@ -4,7 +4,7 @@ bio: Fingering keyboard...
 description: Always stuffed with that kick-ass programmer attitude...
 
 external-image: false
-picture: assets/images/image1.jpg
+picture: assets/images/auth_img.JPG
 resume: false
 resume-external: true
 resume-url: #
@@ -45,7 +45,7 @@ authors:
         name: Ashim
         bio: Programmer who never write codes for free. Always stuffed with that kick-ass programmer attitude.
         external-image: false
-        picture: assets/images/image1.jpg
+        picture: assets/images/auth_img.JPG
         twitter: readableuser
 
 width: normal
