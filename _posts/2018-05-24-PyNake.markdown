@@ -37,7 +37,7 @@ externalLink: false
 
 - _game.py_ - Main game running codes.
 
-[GitHub Repository](https://www.github.com/)
+[GitHub Repository](https://github.com/selfclaimedprogrammer/PyNake)
   
 
   
