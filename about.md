@@ -28,5 +28,5 @@ layout: page
 
 <h2>Projects</h2>
 <ul>
-<li><a href="/PyNake.r">PyNake</a> - Prototype of an old classic snake game.<li>
+<li><a href="/PyNake.r">PyNake</a> - Prototype of an old classic snake game.</li>
 </ul>
