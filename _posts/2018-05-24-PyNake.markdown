@@ -5,7 +5,7 @@ tag:
 - Python
 - PyGame
 projects: true
-description: "PyNake is a prototype of old classic snake game."
+description: "PyNake is a prototype of an old classic snake game."
 category: project
 author: ashim
 externalLink: false

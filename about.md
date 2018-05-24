@@ -27,4 +27,6 @@ layout: page
 </ul>
 
 <h2>Projects</h2>
-<p>Nothing to show right now..</p>
+<ul>
+<li><a href="/PyNake.r">PyNake</a> - Prototype of an old classic snake game.<li>
+</ul>
