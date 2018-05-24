@@ -1,0 +1,45 @@
+---
+title: "PyNake"
+layout: post
+tag:
+- Python
+- PyGame
+projects: true
+description: "PyNake is a prototype of old classic snake game."
+category: project
+author: ashim
+externalLink: false
+---
+
+
+
+**PyNake** is a prototype of old classic snake game.
+
+![PyNake](https://i.imgur.com/bp2vEKT.png) ![Game Over](https://i.imgur.com/FvpsMbQ.png)
+
+
+
+**PyNake** is written in Python Programming language and PyGame Python framework has been used for game functionality.
+
+### Game Play
+
+- A-W-S-D to move the body of snake.
+- If hit with boundary , C to continue/restart and Q to quit.
+- Eat as much as red squares to increase the length of snake. 
+
+### Project Structure
+
+- _app.py_ - Runnable python file.
+
+- _colors.py_ - Colors used in game file.
+
+- _variables.py_ - All important variables used in game.
+
+- _game.py_ - Main game running codes.
+
+[GitHub Repository](https://www.github.com/)
+  
+
+  
+
+  
