@@ -1,0 +1,77 @@
+name: Ashim
+bio: Fingering keyboard...
+
+description: Always stuffed with that kick-ass programmer attitude...
+
+external-image: false
+picture: assets/images/image1.jpg
+resume: false
+resume-external: true
+resume-url: #
+
+url: https://www.uashim.com.np/
+
+permalink: /:title.r/
+
+# analytics-google: 'UA-MYANALYTICS'
+
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
+
+disqus:
+  shortname: uashim 
+  categories: [blog,project] 
+
+facebook: himsa.dockey
+twitter: readableuser
+# google: mygoogle
+instagram: ayyshim
+# pinterest: mypinterest
+# linkedin: mylinkedin
+# youtube: myyoutube
+# spotify: myspotify
+github: selfclaimedprogrammer
+# lastfm: mylastfm
+# stackoverflow: mystackoverflow
+# quora: userquora
+# reddit: username
+#medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+email: selfclaimedprogrammer@gmail.com
+
+authors:
+    ashim:
+        name: Ashim
+        bio: Programmer who never write codes for free. Always stuffed with that kick-ass programmer attitude.
+        external-image: false
+        picture: assets/images/image1.jpg
+        twitter: readableuser
+
+width: normal
+
+paginate: 5
+paginate_path: "blog/:num/"
+
+projects: true
+about: true
+blog: true
+read-time: true
+show-tags: true
+
+related: true
+
+post-advance-links: [blog,project]
+show-author: true
+animation: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-paginate
+  - jekyll-admin
+
+jekyll-mentions:
+    base_url: https://www.uashim.com.np/
